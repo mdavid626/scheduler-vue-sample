@@ -13,3 +13,5 @@ npm login --registry=https://npm.bryntum.com
 # Install package
 npm install @bryntum/schedulerpro-vue-3
 ```
+## Demo
+https://mdavid626.github.io/scheduler-vue-sample
