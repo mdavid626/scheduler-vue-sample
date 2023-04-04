@@ -20,3 +20,6 @@ npm install @bryntum/schedulerpro-vue-3
 
 ## Demo
 https://mdavid626.github.io/scheduler-vue-sample
+
+## Documentation
+https://bryntum.com/products/schedulerpro/docs/guide/SchedulerPro/quick-start/vue-3
