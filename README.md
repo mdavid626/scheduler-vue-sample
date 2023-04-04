@@ -1,24 +1,15 @@
 # scheduler-vue-sample
 
-## Project setup
-```
-npm install
-```
+## Setup
+```bash
+# Run only once
+npm config set "@bryntum:registry=https://npm.bryntum.com"
+npm login --registry=https://npm.bryntum.com
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Username: cotoja1336..mitigado.com
+# Password: trial
+# Email: (this IS public) cotoja1336@mitigado.com
 
-### Compiles and minifies for production
+# Install package
+npm install @bryntum/schedulerpro-vue-3
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
