@@ -10,8 +10,13 @@ npm login --registry=https://npm.bryntum.com
 # Password: trial
 # Email: (this IS public) cotoja1336@mitigado.com
 
-# Install package
+npm install
+npm run serve
+```
+## Install package
+```
 npm install @bryntum/schedulerpro-vue-3
 ```
+
 ## Demo
 https://mdavid626.github.io/scheduler-vue-sample
